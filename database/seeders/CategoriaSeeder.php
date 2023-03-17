@@ -19,6 +19,10 @@ class CategoriaSeeder extends Seeder
             'imagen' => 'https://dummyimage.com/200x150/5c5756/fff'
         ]);
         Categoria::create([
+            'nombre' => 'COCTELES',
+            'imagen' => 'https://dummyimage.com/200x150/5c5756/fff'
+        ]);
+        Categoria::create([
             'nombre' => 'BEBIDAS FRIAS',
             'imagen' => 'https://dummyimage.com/200x150/5c5756/fff'
         ]);
