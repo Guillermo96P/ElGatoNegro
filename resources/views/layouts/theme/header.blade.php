@@ -3,7 +3,7 @@
         <ul class="navbar-item flex-row">
             <li class="nav-item theme-logo">
                 <a href="index.html">
-                    <img src="assets/img/90x90.jpg" class="navbar-logo" alt="logo">
+                    <img src="assets/img/image0.jpg" class="navbar-logo" alt="logo">
                 </a>
             </li>
         </ul>
@@ -23,12 +23,14 @@
         <ul class="navbar-item flex-row navbar-dropdown">
             <li class="nav-item dropdown user-profile-dropdown  order-lg-0 order-1">
                 <a href="javascript:void(0);" class="nav-link dropdown-toggle user" id="userProfileDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    <img src="assets/img/90x90.jpg" alt="admin-profile" class="img-fluid">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person" viewBox="0 0 16 16">
+                        <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6Zm2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0Zm4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4Zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10Z"/>
+                      </svg>
                 </a>
                 <div class="dropdown-menu position-absolute animated fadeInUp" aria-labelledby="userProfileDropdown">
                     <div class="user-profile-section">
                         <div class="media mx-auto">
-                            <img src="assets/img/90x90.jpg" class="img-fluid mr-2" alt="avatar">
+                            <img src="assets/img/image0.jpg" class="img-fluid mr-2" alt="avatar">
                             <div class="media-body">
                                 <h5>Guillermo Pamplona</h5>
                                 <p>Developer</p>
